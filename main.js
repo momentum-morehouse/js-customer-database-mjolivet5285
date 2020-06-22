@@ -2,7 +2,7 @@ import customers from './customers.js'
 
 let person = [{
   thumbnNail: 'https://randomuser.me/api/portraits/men/22.jpg',
-  name: 'Myk Edwards',
+  name: 'Peter Edwards',
   email: 'isaiah.edwards@example.com',
   address: '3640 W 6th St'
 }]
